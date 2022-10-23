@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Foldsack No. 1 Backpack, Fits 15 LaptopsFoldsack No. 1 Backpack",
+      "image": "https://lzd-img-global.slatic.net/g/p/7f47dd4d7478307fa38dc36929acddf3.jpg_720x720q80.jpg_.webp",
+      "price": 2000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "id": 2,
+      "name": "Pants",
+      "image": "https://media.istockphoto.com/photos/blue-mens-jeans-denim-pants-on-orange-background-contrast-saturated-picture-id915923400?b=1&k=20&m=915923400&s=170667a&w=0&h=Z7BxDihlpsZKJPNfEiagtnlwbPeHQcWiFvKb_-73nM4=",
+      "price": 1200,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "id": 3,
+      "name": "J Lindeberg T Shirts Men Casual Cool Cotton Short Sleeve Top",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSF7KPF8TIU6e_LDBfpbx-bLOrkA__C9HfBpCXjD8Ld-mdufHf9O431fXWaTApnchZ1LjoTUP1IInaP9CaYyfg85RW6rDZri5LZVtv2E-NJCJqfwJnOGFVB&usqp=CAE",
+      "price": 550,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 4,
+      "name": "Winter Men Genuine Leather Hat Eagle Print 56-60CM Black/Brown Baseball Cap",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_KsT0L6Vb5qaHpPWMmPTV7ULDfulz-4FvKvpnPljzRJ7PAhanDBQjsFd9_Pazoz3bcs00v2eYou4t7J2Dq7rDQ-ctEGHfFgrN_JkjtPg&usqp=CAE",
+      "price": 900,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "name": "aldrin",
+      "price": "234",
+      "description": "jlaksjfs",
+      "id": 5
+    }
+  ]
+}
